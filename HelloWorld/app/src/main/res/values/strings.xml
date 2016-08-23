@@ -3,4 +3,12 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="def1">Tryto</string>
+    <string name="def2">Uehla</string>
+    <string name="def3">Daniks</string>
+    <string name="def4">Protul</string>
+    <string name="def5">Estehio</string>
+    <string name="def6">Stargo</string>
+
+    <color name="menu">#ddd</color>
 </resources>
